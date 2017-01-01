@@ -1,2 +1,2 @@
 # Kaggle
-Gaggle competitions with Andi!!!
+Kaggle competitions with Andi!!!
