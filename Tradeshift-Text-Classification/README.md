@@ -1,0 +1,1 @@
+[Tradeshift Text classification](https://www.kaggle.com/c/tradeshift-text-classification) competition on Kaggle. Our solution posted by [Aaron](https://www.kaggle.com/gya132371) (andfor which he forgot to share the credit) lead us to be in position 4 back in the days when we stopped working on this.
