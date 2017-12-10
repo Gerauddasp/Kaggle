@@ -1,0 +1,1 @@
+[Loan default prediction](https://www.kaggle.com/c/loan-default-prediction) competition on Kaggle.
